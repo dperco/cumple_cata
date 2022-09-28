@@ -1,5 +1,5 @@
 .slider{
-    height:30vh;
+    height:20vh;
     width: auto;
     margin: 0;
     overflow: hidden;
@@ -18,8 +18,8 @@
 
 .slider li{
     list-style: none;
-    width: 100%;
-    height: 100px;
+    width: 20vw;
+    height: 15vw;
 }
 
 .slider img{
